@@ -54,3 +54,4 @@ bin/_gitignore
 .idea
 .settings
 .classpath
+/bin/
