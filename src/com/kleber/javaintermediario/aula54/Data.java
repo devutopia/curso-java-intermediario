@@ -9,6 +9,7 @@ public class Data {
 	
 	
 	public Data() {
+		super();
 	}
 	
 	/**

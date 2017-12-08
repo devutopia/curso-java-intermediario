@@ -12,8 +12,7 @@ public class Formulario {
 		}
 	}
 	
-	
 	private String nome;
-	private String genero;
+	private Genero genero;
 
 }
